@@ -1,0 +1,9 @@
+I am unable to connect to Acadild VM 
+So I had to run the commands on a hadoop cluster I had rented through a subscription plan
+I installed it on 2 of my laptops both of them lenovo and I was unable to
+
+pwd -> Present working Directory
+ls -ls -> List all the files and directories in the current directory
+nano just like vi or vim is a text editor to create files and cat displays the contents of the test.txt file
+
+I couldn't reach localhost:500070 as I was unable to have the acadgild VM booted , I have attached the screenshot for the same
